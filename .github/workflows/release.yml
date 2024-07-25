@@ -10,4 +10,4 @@ jobs:
       with:
         type: 'zip'
         filename: 'Tees-AiT-Addons_Datapack.zip'
-        exclusions: '*.git* /*node_modules/* .editorconfig .gitignore'
+        exclusions: '*.git* /*node_modules/* .editorconfig .gitignore *.md'
