@@ -1,4 +1,7 @@
 # Tees AiT Addons
+> [!NOTE]
+> Hello! This is where I will be showing the progress of my AiT Addons datapack.
+> Special thanks to [AiT](https://github.com/Loqor/ait) and their development team, Without this mod I would likely not get to make this addon.
 
 # Tees AiT Addons To-Do ✗ ✓
 - [ ] Finish the Pride exteriors
