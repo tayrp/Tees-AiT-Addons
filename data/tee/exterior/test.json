@@ -1,5 +1,5 @@
 {
-    "id": "tee:pansexual",
+    "id": "tee:test",
     "category": "ait:exterior/police_box",
     "parent": "ait:exterior/police_box/tokamak",
     "texture": "tee:textures/misc/test/test.png",
