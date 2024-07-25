@@ -18,14 +18,15 @@
 - [ ] Make Polysexual Exterior
 - [ ] Make Polyamorous Exterior
 - Without Infinity Heart?
-- [ ] Make Non-binary Exterior
-- In Progress
+- [x] Make Non-binary Exterior
+- Need to change the lamp.
 - [ ] Make Lesbian Interior
 - [ ] Make Genderqueer Exterior
 - [ ] Make Genderfluid Exterior
 - [ ] Make Asexual Exterior
 - [ ] Make Aromantic Exterior
 - [ ] Make Agender Exterior
+- [ ] Make Pride Exteriors with different models, Classic, etc.
 
 <!-- Disclaimers & Information is here to show credits to the respective persons, As well as mention that the resourcepack for this datapack is not available for download. -->
 ### Disclaimers & Information
