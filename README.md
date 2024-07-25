@@ -1,4 +1,5 @@
 # Tees AiT Addons
+[![Release](https://github.com/tayrp/Tees-AiT-Addons/actions/workflows/main.yml/badge.svg)](https://github.com/tayrp/Tees-AiT-Addons/actions/workflows/main.yml)
 > [!NOTE]
 > Hello! This is where I will be showing the progress of my AiT Addons datapack.
 > Special thanks to [AiT](https://github.com/Loqor/ait) and their development team, Without this mod I would likely not get to make this addon.
