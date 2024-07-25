@@ -21,7 +21,7 @@ jobs:
         GITHUB_TOKEN: ${{ env.GITHUB_TOKEN }}
       with:
         tag_name: "v${{ env.TAG_NAME }}"
-        release_name: "Dark Everywhere ${{ env.TAG_NAME }}🌙"
+        release_name: "Tees AiT Addons ${{ env.TAG_NAME }}"
         draft: false
         prerelease: false
     - name: Generate a zip archive for each branch
