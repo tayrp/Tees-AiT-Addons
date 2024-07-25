@@ -25,11 +25,7 @@
 - [ ] Make Aromantic Exterior
 - [ ] Make Agender Exterior
 
-<!-- Caution to mention that the resourcepack for this datapack will not be available. -->
-> [!CAUTION]
-> Please note that you cannot download the resourcepack from this repository.
-> All rights reserved to their respective owners, Including textures, etc.
-
-### Footer
+<!-- Disclaimers & Information is here to show credits to the respective persons, As well as mention that the resourcepack for this datapack is not available for download. -->
+### Disclaimers & Information
 Please note that you cannot download the resourcepack from this repository.
 All rights reserved to their respective owners, Including textures, etc.
