@@ -1,5 +1,5 @@
 # Tees AiT Addons
-DISCLAIMER: You cannot use this pack directly from this repository, The image files have not been added and will not be added.
+
 # Tees AiT Addons To-Do ✗ ✓
 - [ ] Finish the Pride exteriors
 - [ ] Add some music references to the Pride exteriors
@@ -21,3 +21,10 @@ DISCLAIMER: You cannot use this pack directly from this repository, The image fi
 - [ ] Make Asexual Exterior
 - [ ] Make Aromantic Exterior
 - [ ] Make Agender Exterior
+
+DISCLAIMER: You cannot use this pack directly from this repository, The image files have not been added and will not be added.
+
+A footnote can also have multiple lines[^1].
+
+[^1]: Please note that you cannot download the resourcepack from this repository.
+[^2]: All rights reserved to their respective owners, Including textures, etc.
