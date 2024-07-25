@@ -18,6 +18,7 @@
 - [ ] Make Polyamorous Exterior
 - Without Infinity Heart?
 - [ ] Make Non-binary Exterior
+- In Progress
 - [ ] Make Lesbian Interior
 - [ ] Make Genderqueer Exterior
 - [ ] Make Genderfluid Exterior
