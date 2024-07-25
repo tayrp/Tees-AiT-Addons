@@ -1,0 +1,7 @@
+{
+    "id": "tee:bisexual",
+    "category": "ait:exterior/police_box",
+    "parent": "ait:exterior/police_box/tokamak",
+    "texture": "tee:textures/pride/bisexual/bisexual.png",
+    "emission": "tee:textures/pride/bisexual/bisexual_emissive.png"
+  }

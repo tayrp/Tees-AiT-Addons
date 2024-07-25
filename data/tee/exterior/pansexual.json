@@ -1,0 +1,7 @@
+{
+    "id": "tee:pansexual",
+    "category": "ait:exterior/police_box",
+    "parent": "ait:exterior/police_box/tokamak",
+    "texture": "tee:textures/pride/pansexual/pansexual.png",
+    "emission": "tee:textures/pride/pansexual/pansexual_emissive.png"
+  }
