@@ -27,5 +27,5 @@
 
 <!-- Disclaimers & Information is here to show credits to the respective persons, As well as mention that the resourcepack for this datapack is not available for download. -->
 ### Disclaimers & Information
-Please note that you cannot download the resourcepack from this repository.
+You cannot download the resourcepack from this repository, It likely will not be released here.
 All rights reserved to their respective owners, Including textures, etc.
