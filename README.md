@@ -1,6 +1,11 @@
 # Tees AiT Addons
 DISCLAIMER: You cannot use this pack directly from this repository, The image files have not been added and will not be added.
+# Tees AiT Addons To-Do ✗ ✓
+- [ ] Finish the Pride exteriors
+- [ ] Add some music references to the Pride exteriors
+- [ ] Add some show references to the Pride exteriors
 
+ 
 # Pride Flag Exterior To-Do ✗ ✓
 - [x] Make Pansexual Exterior
 - [x] Make Bisexual Exterior
