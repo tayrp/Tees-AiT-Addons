@@ -5,10 +5,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@master
-    - name: Release
+    - name: Archive Release
       uses: thedoctor0/zip-release@0.7.5
       with:
         type: 'zip'
-        filename: 'Tees-AiT-Addons_Datapack.zip'
+        filename: 'datapack.zip'
         exclusions: '*.git* /*node_modules/* .editorconfig .gitignore *.md'
         

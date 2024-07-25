@@ -1,18 +1,5 @@
-name: Release Archive
-
-on: 
-  push:
-    tags:
-    - '*'
-
-jobs:
-
-  build:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-    - uses: actions/checkout@v3
-    - uses: ncipollo/release-action@v1
-      with:
-        artifacts: "Tees-AiT-Addons_Datapack.zip"
+- name: Upload Release
+  uses: ncipollo/release-action@v1.12.0
+  with:
+    artifacts: "release.zip"
+    token: ${{ secrets.GITHUB_TOKEN }}
